@@ -8,21 +8,13 @@
 
 ## 作者简介
 
-　　Betsy Beyer
+　　Betsy Beyer 是 Google 纽约负责 SRE 的一名技术文档作家。她之前曾为遍布全球的 Google 数据中心与 Mountain View 硬件运维团队编写文档。在搬到纽约之前，Betsy 是 Stanford 大学技术性写作课程的讲师。她曾经学习国际关系与英文文学，并在 Stanford 和 Tulane 获得学历。
 
-　　Google 纽约负责 SRE 的一名技术文档作家。她之前曾为遍布全球的 Google 数据中心与 Mountain View 硬件运维团队编写文档。在搬到纽约之前，Betsy 是 Stanford 大学技术性写作课程的讲师。她曾经学习国际关系与英文文学，并在 Stanford 和 Tulane 获得学历。
+　　Chris Jones 是 Google App Engine 的一名 SRE。Google App Engine 是一个 PaaS 服务，每天处理超过 280 亿个请求。他的办公室在旧金山，他之前的工作包括 Google 广告统计、数据仓库，以及用户支持系统的维护。在之前，Chris 曾经在学校 IT 行业任职，同时参与过竞选数据分析，以及一些 BSD 内核的修改。他有计算机工程、经济学，以及技术政策学的学位。同时他也是一名有执照的职业工程师。
 
-　　Chris Jones
+　　Jennifer Petoff 是 Google SRE 团队的一名项目经理，工作地点在都柏林，爱尔兰。她曾经负责管理大型全球项目，包括：科学研究、工程、人力资源，以及广告等。Jennifer 在加入 Google 之前，曾在化工行业任职八年。她获得了 Stanford 大学的化学博士与学士学位，同时她还拥有 Rochester 大学的心理学学位。
 
-　　Google App Engine 的一名 SRE。Google App Engine 是一个 PaaS 服务，每天处理超过 280 亿个请求。他的办公室在旧金山，他之前的工作包括 Google 广告统计、数据仓库，以及用户支持系统的维护。在之前，Chris 曾经在学校 IT 行业任职，同时参与过竞选数据分析，以及一些 BSD 内核的修改。他有计算机工程、经济学，以及技术政策学的学位。同时他也是一名有执照的职业工程师。
-
-　　Jennifer Petoff
-
-　　Google SRE 团队的一名项目经理，工作地点在都柏林，爱尔兰。她曾经负责管理大型全球项目，包括：科学研究、工程、人力资源，以及广告等。Jennifer 在加入 Google 之前，曾在化工行业任职八年。她获得了 Stanford 大学的化学博士与学士学位，同时她还拥有 Rochester 大学的心理学学位。
-
-　　Niall Murphy
-
-　　Google 爱尔兰团队广告 SRE 的负责人。他拥有 20 年互联网行业经验，目前是 INEX（爱尔兰网络互联枢纽）的主席。他曾经写作以及参与写作很多科技文章与书籍，包括 O’Reilly 出版的 IPv6 Network Administration，以及很多 RFC。他目前在参与书写爱尔兰互联网发展史。他拥有计算机科学、数学，以及诗歌学的学历（他当时一定是想错了！）。他目前与妻子和两个儿子居住在都柏林。
+　　Niall Murphy 是 Google 爱尔兰团队广告 SRE 的负责人。他拥有 20 年互联网行业经验，目前是 INEX（爱尔兰网络互联枢纽）的主席。他曾经写作以及参与写作很多科技文章与书籍，包括 O’Reilly 出版的 IPv6 Network Administration，以及很多 RFC。他目前在参与书写爱尔兰互联网发展史。他拥有计算机科学、数学，以及诗歌学的学历（他当时一定是想错了！）。他目前与妻子和两个儿子居住在都柏林。
 
 ## 译者简介
 
