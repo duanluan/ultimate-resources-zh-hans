@@ -26,8 +26,3 @@
 
 [![](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/true)](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/true/vote)
 [![](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/false)](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/false/vote)
-
-* （放大至 200% 之前都）较清晰的电子书是否要锐化？
-
-[![](https://api.gh-polls.com/poll/01CZWB6BG3ANVVDZSRPWRE35GC/true)](https://api.gh-polls.com/poll/01CZWB6BG3ANVVDZSRPWRE35GC/true/vote)
-[![](https://api.gh-polls.com/poll/01CZWB6BG3ANVVDZSRPWRE35GC/false)](https://api.gh-polls.com/poll/01CZWB6BG3ANVVDZSRPWRE35GC/false/vote)
