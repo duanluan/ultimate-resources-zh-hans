@@ -13,3 +13,21 @@
 # 注意
 
 * 电子书资源中，大部分都经过批量锐化、书签优化[、OCR]，如果有需要帮忙优化的，可以提 Issues。
+
+# 征集以下电子书优化规范（点击选项即投票）
+
+* 书签中“第 1 章{%s}XXXX”，{%s} 应该用哪种？
+
+[![](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%80%E4%B8%AA%E5%8D%8A%E8%A7%92%E7%A9%BA%E6%A0%BC)](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%80%E4%B8%AA%E5%8D%8A%E8%A7%92%E7%A9%BA%E6%A0%BC/vote)
+[![](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%A4%E4%B8%AA%E5%8D%8A%E8%A7%92%E7%A9%BA%E6%A0%BC)](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%A4%E4%B8%AA%E5%8D%8A%E8%A7%92%E7%A9%BA%E6%A0%BC/vote)
+[![](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%80%E4%B8%AA%E5%85%A8%E8%A7%92%E7%A9%BA%E6%A0%BC)](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%80%E4%B8%AA%E5%85%A8%E8%A7%92%E7%A9%BA%E6%A0%BC/vote)
+
+* 书签中“XX——XX”，“——”前后要不要加一个空格？
+
+[![](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/true)](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/true/vote)
+[![](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/false)](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/false/vote)
+
+* （放大至 200% 之前都）较清晰的电子书是否要锐化？
+
+[![](https://api.gh-polls.com/poll/01CZWB6BG3ANVVDZSRPWRE35GC/true)](https://api.gh-polls.com/poll/01CZWB6BG3ANVVDZSRPWRE35GC/true/vote)
+[![](https://api.gh-polls.com/poll/01CZWB6BG3ANVVDZSRPWRE35GC/false)](https://api.gh-polls.com/poll/01CZWB6BG3ANVVDZSRPWRE35GC/false/vote)
