@@ -18,7 +18,7 @@
 
 # 征集以下电子书优化规范（点击选项即投票）
 
-* 书签中“第 1 章{%s}XXXX”，{%s} 应该用哪种？
+* 书签中“第 1 章${s}XXXX”，${s} 应该用哪种？
 
 [![](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%80%E4%B8%AA%E5%8D%8A%E8%A7%92%E7%A9%BA%E6%A0%BC)](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%80%E4%B8%AA%E5%8D%8A%E8%A7%92%E7%A9%BA%E6%A0%BC/vote)
 [![](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%A4%E4%B8%AA%E5%8D%8A%E8%A7%92%E7%A9%BA%E6%A0%BC)](https://api.gh-polls.com/poll/01CZWAT16HQXVZEJFVQ0YKVJWW/%E4%B8%A4%E4%B8%AA%E5%8D%8A%E8%A7%92%E7%A9%BA%E6%A0%BC/vote)
