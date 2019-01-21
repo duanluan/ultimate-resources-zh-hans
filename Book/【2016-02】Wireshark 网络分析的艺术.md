@@ -20,4 +20,4 @@
 
 # 资源
 
-* PDF 扫描版优化带书签：[百度网盘](https://pan.baidu.com/s/1EtMc0MqTPrBRXJ3Px5vlJg)，提取码：f2dg。
+* PDF 扫描版优化带书签：[城通网盘](https://u11215426.pipipan.com/fs/11215426-332135599)
