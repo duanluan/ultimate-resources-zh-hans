@@ -18,6 +18,6 @@
 
 |书名|资源名|地址|备注|
 |---|---|---|---|
-|Python Cookbook（第 3 版）中文版|PDF 原版|[百度网盘](https://pan.baidu.com/s/1xA-H_-cBk1NfCH6bSMrkWg)|eoo3|
+|Python Cookbook（第 3 版）中文版|PDF 原版|[城通网盘](https://u11215426.pipipan.com/fs/11215426-332092938)||
 |《Python Cookbook》 3rd Edition 翻译|项目主页|[GitHub](https://github.com/yidao620c/python3-cookbook)||
 ||在线阅读|[Read the Docs](http://python3-cookbook.readthedocs.org/zh_CN/latest/)||
