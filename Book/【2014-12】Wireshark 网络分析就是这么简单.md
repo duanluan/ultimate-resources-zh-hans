@@ -22,4 +22,4 @@
 
 # 资源
 
-* PDF 扫描版优化带书签：[百度网盘](https://pan.baidu.com/s/19vLwtRBTyY1VZp5EBcFd6A)，提取码：72p9。
+* PDF 扫描版优化带书签：[城通网盘](https://u11215426.pipipan.com/fs/11215426-332092836)
