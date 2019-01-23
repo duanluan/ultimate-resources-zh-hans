@@ -75,4 +75,4 @@
 
 # 资源
 
-官网：[Snipaste - 截图 + 贴图](https://zh.snipaste.com/)
+* 官网：[Snipaste - 截图 + 贴图](https://zh.snipaste.com/)
