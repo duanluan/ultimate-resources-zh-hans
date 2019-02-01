@@ -36,7 +36,7 @@
 
 ![文件右键菜单](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_context_menu.png)
 ![底部工具栏](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_toolbar.png)
-![Windows 任务栏图标菜单](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_taskbar.png
+![Windows 任务栏图标菜单](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_taskbar.png]
 
 跟踪安装后，如果所有进程都已完成，将自动停止跟踪，否则你必须在安装完成后手动停止。
 
