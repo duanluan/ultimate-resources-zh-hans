@@ -165,3 +165,5 @@ KGT4-YGRT-GHTR-7G31
 |---|---|---|---|
 |Uninstall Tool|官网|[Uninstall Tool - Unique and Powerful Uninstaller, Uninstall Software, Remove Programs](https://www.crystalidea.com/uninstall-tool)||
 ||便携版下载地址|[Portable version download link](https://www.crystalidea.com/downloads/uninstalltool_portable.zip)||
+||注册码|[uninstall Toole 注册码_百度搜索](https://www.baidu.com/s?wd=uninstall+Toole+%E6%B3%A8%E5%86%8C%E7%A0%81)||
+||破解版|[uninstall Toole 破解版_百度搜索](https://www.baidu.com/s?wd=uninstall+Toole+%E7%A0%B4%E8%A7%A3%E7%89%88)||
