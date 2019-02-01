@@ -6,21 +6,25 @@
 
 ## 卸载向导
 
-### 启动卸载向导后，清理残留文件。
+启动卸载向导后，清理残留文件。
 
-  ![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_wizard.png)
+![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_wizard.png)
 
-### 延迟删除：当系统正在使用文件或文件夹时，会在下次 Windows 重新启动时删除。
+### 延迟删除
 
-  ![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_wizard_delayed_removal.png)
+当系统正在使用文件或文件夹时，会在下次 Windows 重新启动时删除。
 
-### 检测并终止正在运行的进程。
+![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_wizard_delayed_removal.png)
 
-  ![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_wizard_terminate_process.png)
+### 检测并终止正在运行的进程
 
-### 详细的删除日志：卸载完成时，你可以查看/保存详细的删除日志。删除日志记录了每个操作（例如尝试删除文件/文件夹/注册表或终止进程/取消注册 COM 对象等）。操作失败时，会在日志中添加相应的错误代码和说明。
+![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_wizard_terminate_process.png)
 
-  ![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_wizard_removal_log.png)
+### 详细的删除日志
+
+卸载完成时，你可以查看/保存详细的删除日志。删除日志记录了每个操作（例如尝试删除文件/文件夹/注册表或终止进程/取消注册 COM 对象等）。操作失败时，会在日志中添加相应的错误代码和说明。
+
+![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_wizard_removal_log.png)
 
 ## 跟踪安装
 
@@ -28,40 +32,40 @@
 
 ### 如何跟踪安装
 
-  可以通过 3 种方式完成：
+可以通过 3 种方式完成：
 
-  ![文件右键菜单](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_context_menu.png)
-  ![底部工具栏](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_toolbar.png)
-  ![Windows 任务栏图标菜单](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_taskbar.png)
+![文件右键菜单](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_context_menu.png)
+![底部工具栏](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_toolbar.png)
+![Windows 任务栏图标菜单](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_taskbar.png
 
-  跟踪安装后，如果所有进程都已完成，将自动停止跟踪，否则你必须在安装完成后手动停止。
-  
-  成功安装后，新程序将显示在列表中，并带有“已跟踪”标记，在卸载过程中将删除所有跟踪数据（在卸载向导中）。
-  
-  ![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_traced_mark.png)
-  
+跟踪安装后，如果所有进程都已完成，将自动停止跟踪，否则你必须在安装完成后手动停止。
+
+成功安装后，新程序将显示在列表中，并带有“已跟踪”标记，在卸载过程中将删除所有跟踪数据（在卸载向导中）。
+
+![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_traced_mark.png)
+
 ### 安装进度
 
-  在跟踪安装时，会最小化到系统托盘。你可以通过双击托盘图标或托盘上下文菜单来查看实时进度。
-  
-  ![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_progress.png)
-  
-  你可以使用还原功能停止跟踪安装：
-  
-  ![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_revert.png)
-  
+在跟踪安装时，会最小化到系统托盘。你可以通过双击托盘图标或托盘上下文菜单来查看实时进度。
+
+![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_progress.png)
+
+你可以使用还原功能停止跟踪安装：
+
+![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_revert.png)
+
 ### 安装多个程序
 
-  安装跟踪器能检测和处理这种情况：安装完成后，显示已安装列表，并允许用户选择主要程序。列表标记主要程序为“已跟踪”，并将其它程序视为相关程序。卸载一个跟踪程序时，也会删除相关程序的跟踪数据，并且会显示警告消息。
+安装跟踪器能检测和处理这种情况：安装完成后，显示已安装列表，并允许用户选择主要程序。列表标记主要程序为“已跟踪”，并将其它程序视为相关程序。卸载一个跟踪程序时，也会删除相关程序的跟踪数据，并且会显示警告消息。
 
 ### 附加数据
 
-  需要配置或者更新新版本时。
-  
-  ![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_append.png)
-  
-  指定一个可执行文件，安装跟踪器将继续跟踪并附加新数据。
-  
+需要配置或者更新新版本时。
+
+![](https://www.crystalidea.com/assets/images/uninstall-tool/screen_monitor_append.png)
+
+指定一个可执行文件，安装跟踪器将继续跟踪并附加新数据。
+
 ## 强制删除
 
 使用卸载向导查找和删除程序，不运行关联卸载程序。
