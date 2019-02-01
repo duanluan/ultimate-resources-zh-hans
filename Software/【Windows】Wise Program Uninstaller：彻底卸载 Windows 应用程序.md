@@ -43,7 +43,7 @@ Wise Program Uninstaller 是一个免费，但是专业的 Windows 应用程序�
     **强制卸载**：当 Wise Program Uninstaller 列出来的某个程序无法通过安全卸载移除时，我们建议你使用 Windows 控制面板中的 “卸载程序 “尝试卸载。如果也无法卸载该程序，可以使用 Wise Program Uninstaller 的” 强制卸载 “功能。
     ![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu5.png)
     
-  **自定义卸载**：如果 Wise Program Uninstaller 和 Windows 的控制面板没有列出你想卸载的程序，可以使用 “自定义卸载 “功能，对于普通用户请谨慎使用此功能。
+    **自定义卸载**：如果 Wise Program Uninstaller 和 Windows 的控制面板没有列出你想卸载的程序，可以使用 “自定义卸载 “功能，对于普通用户请谨慎使用此功能。
     ![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu6.png)
 
 # 资源
