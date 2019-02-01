@@ -19,18 +19,22 @@ Wise Program Uninstaller 是一个免费，但是专业的 Windows 应用程序�
 ## 使用手册
 
 1. 打开 Wise Program Uninstaller，加载你的电脑中已安装的所有程序。
-![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu1.png)
+
+    ![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu1.png)
 
 2. 找到需要卸载的程序。
 
     Wise Program Uninstaller 默认用程序的首字母递增的方式对应用程序排序，你可以通过鼠标滚轮向下滚动查找程序，也可以在搜索框中输入程序名字快速定位。也可以按安装时间排序，卸载那些早期安装的但是没有使用的程序，还可以按大小排序，卸载那些体积超大的程序，释放更多磁盘空间。
-![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu2.png)
+
+    ![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu2.png)
 
 3. 找到需要卸载的程序后，点击 “安全卸载” 按钮。这时会调用程序自己的卸载程序进行卸载，也就是标准的卸载方式。
-![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu3.png)
+
+    ![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu3.png)
 
 4. 找到需要卸载的程序后，点击 “安全卸载” 按钮。这时会调用程序自己的卸载程序进行卸载，也就是标准的卸载方式。
-![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu4.png)
+
+    ![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu4.png)
 
 5. 点击 “OK” 按钮删除残余项目，整个卸载过程就完成了，安全而且没有残留。
 
@@ -39,7 +43,7 @@ Wise Program Uninstaller 是一个免费，但是专业的 Windows 应用程序�
     **强制卸载**：当 Wise Program Uninstaller 列出来的某个程序无法通过安全卸载移除时，我们建议你使用 Windows 控制面板中的 “卸载程序 “尝试卸载。如果也无法卸载该程序，可以使用 Wise Program Uninstaller 的” 强制卸载 “功能。
     ![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu5.png)
     
-    **自定义卸载**：如果 Wise Program Uninstaller 和 Windows 的控制面板没有列出你想卸载的程序，可以使用 “自定义卸载 “功能，对于普通用户请谨慎使用此功能。
+  **自定义卸载**：如果 Wise Program Uninstaller 和 Windows 的控制面板没有列出你想卸载的程序，可以使用 “自定义卸载 “功能，对于普通用户请谨慎使用此功能。
     ![](https://www.wisecleaner.com.cn/templates/images/wiseuninstallerfree/wpu6.png)
 
 # 资源
