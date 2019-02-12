@@ -1,7 +1,7 @@
 # ultimate-resources-zh-cn
 
 [![](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg?style=flat-square)](#)
-[![](https://img.shields.io/badge/800+%20users-🐧-388adc.svg)](//shang.qq.com/wpa/qunwpa?idkey=7522ce136fc6c4ac94332b38d11f05f01c170a9e917e135a4a2d0f922f01f78f)
+[![](https://img.shields.io/badge/for%20800+%20users-🐧-388adc.svg)](//shang.qq.com/wpa/qunwpa?idkey=7522ce136fc6c4ac94332b38d11f05f01c170a9e917e135a4a2d0f922f01f78f)
 
 ## 简介
 
