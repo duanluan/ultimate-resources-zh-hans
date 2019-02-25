@@ -26,6 +26,7 @@
     112.80.36.234 11215426.234.unicom.data.tv002.com
     112.80.36.236 11215426.236.unicom.data.tv002.com
     ```
+    推荐使用 [SwitchHosts!](Softwares/【All】SwitchHosts!：管理、切换多%20hosts%20方案工具.md) 来管理 hosts。
 
 ### 征集以下电子书优化规范（点击选项即投票）
 
