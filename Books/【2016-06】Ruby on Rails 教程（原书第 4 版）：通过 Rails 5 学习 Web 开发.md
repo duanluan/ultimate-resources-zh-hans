@@ -16,3 +16,7 @@
 |---|---|---|---|
 |Ruby on Rails 教程（原书第 4 版）：通过 Rails 5 学习 Web 开发|在线阅读|[Ruby on Rails 教程 - 目录](https://railstutorial-china.org/book/)||
 ||源码|[Bitbucket](railstutorial/sample_app_4th_ed)||
+
+# 备注
+
+关联图书：[Ruby on Rails 教程（第 4 版）- 图书 - 图灵社区](//www.ituring.com.cn/book/2035)
