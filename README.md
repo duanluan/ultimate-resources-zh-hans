@@ -39,6 +39,8 @@
     $ systemctl restart nscd
     ```
 
+* 推荐安装 Chrome 插件：[Octotree](https://www.chromefor.com/?s=Octotree)，以获取更好的检索体验。
+
 ### 征集以下电子书优化规范（点击选项即投票）
 
 * 书签中“第 1 章${s}XXXX”，${s} 应该用哪种？
