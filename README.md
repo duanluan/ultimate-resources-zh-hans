@@ -1,7 +1,7 @@
 # 请先阅读以下内容
 
 [![](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg?style=flat-square)](#)
-[![](https://img.shields.io/badge/for%20800+%20users-🐧-388adc.svg)](//shang.qq.com/wpa/qunwpa?idkey=7522ce136fc6c4ac94332b38d11f05f01c170a9e917e135a4a2d0f922f01f78f)
+[![](https://img.shields.io/badge/for%20900+%20users-🐧-388adc.svg)](//shang.qq.com/wpa/qunwpa?idkey=a3bb2045ed46fc0da55c10def4752d29c20bd6e99f925434ddd758c8e34e0d96)
 
 ## 简介
 
