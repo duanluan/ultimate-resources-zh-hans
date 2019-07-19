@@ -8,4 +8,4 @@ StrokesPlus 是一个用于 Windows 的免费鼠标手势工具。
 
 # 资源
 
-官网：[StrokesPlus.net - Mouse Gestures and More for Windows](https://www.strokesplus.net/)
+* 官网：[StrokesPlus.net - Mouse Gestures and More for Windows](https://www.strokesplus.net/)
