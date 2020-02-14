@@ -18,5 +18,5 @@
 
 |书名|资源名|地址|备注|
 |---|---|---|---|
-|Windows PowerShell 实战指南（第 3 版）|EPUB 原版带目录|[城通网盘](https://u11215426.pipipan.com/fs/11215426-391026299)||
-||源代码|[城通网盘](https://u11215426.pipipan.com/fs/11215426-391026792)||
+|Windows PowerShell 实战指南（第 3 版）|EPUB 原版带目录|[MEGA](https://mega.nz/#!We4iQKhT!qQBannOuLasJHBkDyieBUmuvR75U8u_NUNlEWSqJvdw)||
+||源代码|[MEGA](https://mega.nz/#!GWw2QAIY!xe1eQhWPlasZQIP-SYblLHfzqagRLR3wAt2-ShDIMtY)||
