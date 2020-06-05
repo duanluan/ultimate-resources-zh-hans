@@ -22,7 +22,7 @@
 
 # 资源
 
-* PDF 扫描版优化带书签：[城通网盘](https://u11215426.pipipan.com/fs/11215426-332092836)
+* PDF 扫描版优化带书签：[和彩云](http://caiyun.feixin.10086.cn/dl/0n5CsN79avgWw)，提取码：HqJX
 
 # 关联
 
