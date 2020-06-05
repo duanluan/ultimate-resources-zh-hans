@@ -20,7 +20,7 @@
 
 # 资源
 
-* PDF 扫描版优化带书签：[城通网盘](https://u11215426.pipipan.com/fs/11215426-332135599)
+* PDF 扫描版优化带书签：[和彩云](http://caiyun.feixin.10086.cn/dl/0n5CrP9pUubgF)，提取码：I24G
 
 # 关联
 
