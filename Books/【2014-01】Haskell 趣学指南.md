@@ -24,5 +24,5 @@
 
 |书名|资源名|地址|备注|
 |---|---|---|---|
-|Haskell 趣学指南|EPUB 原版带目录|[城通网盘](https://u11215426.pipipan.com/fs/11215426-389975785)||
+|Haskell 趣学指南|EPUB 原版带目录|[和彩云](http://caiyun.feixin.10086.cn/dl/0n5Cfnr3UUn4D)|提取码：pA1V|
 ||learnyouahaskell-zh|[Github](https://github.com/MnO2/learnyouahaskell-zh)||
