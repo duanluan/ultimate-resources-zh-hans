@@ -14,4 +14,4 @@
 
 # 资源
 
-* EPUB 原版带目录：[城通网盘](https://u11215426.pipipan.com/fs/11215426-335922936)
+* EPUB 原版带目录：[和彩云](http://caiyun.feixin.10086.cn/dl/0n5Crj52kyxd9)，提取码：Cb2X
