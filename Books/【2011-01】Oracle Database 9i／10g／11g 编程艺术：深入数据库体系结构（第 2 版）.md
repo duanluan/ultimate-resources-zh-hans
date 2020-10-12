@@ -14,8 +14,8 @@
 
 |书名|资源名|地址|备注|
 |---|---|---|---|
-|Oracle Database 9i／10g／11g 编程艺术：深入数据库体系结构（第 2 版）|PDF 扫描版优化带书签|[和云彩](http://caiyun.feixin.10086.cn/dl/0n5CsLvsmJht8)|提取码：VuAA|
-||源代码|[和云彩](http://caiyun.feixin.10086.cn/dl/0n5CsLvqQz5Ha)|提取码：bkSk|
+|Oracle Database 9i／10g／11g 编程艺术：深入数据库体系结构（第 2 版）|PDF 扫描版优化带书签|[和彩云](http://caiyun.feixin.10086.cn/dl/0n5CsLvsmJht8)|提取码：VuAA|
+||源代码|[和彩云](http://caiyun.feixin.10086.cn/dl/0n5CsLvqQz5Ha)|提取码：bkSk|
 
 # 关联
 
