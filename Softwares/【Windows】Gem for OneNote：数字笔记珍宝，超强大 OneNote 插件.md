@@ -2,7 +2,7 @@
 
 # 简介
 
-略，详见[数字笔记珍宝 Gem for OneNote](//cn.onenotegem.com/gem-for-onenote.html)。
+略，详见[数字笔记珍宝 Gem for OneNote](http://cn.onenotegem.com/a/addins/gem-for-onenote.html)。
 
 除此之外，还有：
 
@@ -27,4 +27,4 @@
 
 # 资源
 
-* 官网：[数字笔记珍宝 OneNote Gem - 数字笔记插件](//cn.onenotegem.com/)
+* 官网：[数字笔记珍宝 OneNote Gem - 数字笔记插件](http://cn.onenotegem.com/)
