@@ -39,3 +39,8 @@
 
 [![](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/true)](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/true/vote)
 [![](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/false)](https://api.gh-polls.com/poll/01CZWAYRRX1935XZBRSG09K2G5/false/vote)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/duanluan/ultimate-resources-zh-hans.svg)](https://starchart.cc/duanluan/ultimate-resources-zh-hans)
+
