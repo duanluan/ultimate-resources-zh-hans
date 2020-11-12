@@ -18,4 +18,4 @@
 
 # 资源
 
-* EPUB 原版带目录：[城通网盘](https://u11215426.pipipan.com/fs/11215426-371753234)
+* EPUB 原版带目录：[和彩云](https://caiyun.139.com/m/i?0n5CrORDTUGT8)，提取码：vroY
