@@ -23,9 +23,9 @@
 
 * **2019-05-03 前**上传的电子书发现用 calibre 转换 EPUB 格式时压缩了图片，可能造成图片不清晰，之前的遇到了会重传。
 
-* **2020-11-23 前**上传的电子书发现用 calibre 转换 EPUB 格式时可能去除了一些行间距或者段落间距，影响阅读体验，所以以后不再转换，除优化操作外，仅修改元数据，之前的遇到了会重传。
+* **2020-11-23 前**上传的电子书发现用 calibre 转换 EPUB 格式时可能去除了一些行间距或者段落间距，影响阅读体验，以后不再转换，除优化操作外，仅修改元数据，之前的遇到了会重传。
 
-* 因为百度网盘版权限制，蓝奏云单文件大小限制，所以使用~~城通网盘~~（**资源长期无人下载就会过期删除**，~~正在开发续期项目~~）。所有文件分享慢慢换成和彩云，[点击此链接先注册才能下载](https://caiyun.feixin.10086.cn:7071/portal/newsignin/share.jsp?id=JwipEEGs8fMzR9XGMAFJbFo7NsvWPC7o3ZomLZOQvdg%3D0001591241446343&phone=176****2928)，未更新的资源发 [issue](../../issues/4) 我会优先上传。
+* 使用和彩云分享文件，[点击此链接先注册才能下载](https://caiyun.feixin.10086.cn:7071/portal/newsignin/share.jsp?id=JwipEEGs8fMzR9XGMAFJbFo7NsvWPC7o3ZomLZOQvdg%3D0001591241446343&phone=176****2928)，链接不存在的资源发 [issue](../../issues/4) 我会优先重传。
 
 * 推荐安装 Chrome 插件：[Octotree](https://www.chromefor.com/?s=Octotree)，以获取更好的检索体验。
 
