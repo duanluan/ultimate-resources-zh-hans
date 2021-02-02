@@ -1,4 +1,4 @@
-![](https://store-images.s-microsoft.com/image/apps.54441.e4d64842-bd04-454e-ba14-a18fd592d2c6.7c66c91a-d038-487e-b273-56a77fe6acef.b450dad9-348a-4791-976a-5ed582cbdb9c)
+![](https://addons.cdn.mozilla.net/user-media/previews/full/232/232000.png)
 
 # 简介
 
