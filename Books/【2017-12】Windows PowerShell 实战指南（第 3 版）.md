@@ -18,5 +18,5 @@
 
 |书名|资源名|地址|备注|
 |---|---|---|---|
-|Windows PowerShell 实战指南（第 3 版）|EPUB 原版带目录|[和彩云](http://caiyun.feixin.10086.cn/dl/0n5CsgvmyEzFe)|提取码：Pigt|
-||源代码|[和彩云](http://caiyun.feixin.10086.cn/dl/0n5Criyseskdk)|提取码：q85j|
+|Windows PowerShell 实战指南（第 3 版）|MOBI 原版带目录|[和彩云](https://caiyun.139.com/m/i?0n5Cg7oJIxjGU)|提取码：XkZq|
+||源代码|[和彩云](https://caiyun.139.com/m/i?0n5CrjAPaeUui)|提取码：pkJX|
