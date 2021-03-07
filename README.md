@@ -7,6 +7,8 @@
 
 电子书、软件、Chrome 扩展、网站等推荐。
 
+如果电子书中有其他网站或公众号的广告、水印欢迎提醒我。
+
 ## 目录
 
 * Softwares：软件，标签为 Windows、Linux、Mac、Android、iOS、Other，包含前三项即为 All。
