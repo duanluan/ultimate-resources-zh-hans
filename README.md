@@ -13,7 +13,7 @@
 
 * Softwares：软件，标签为 Windows、Linux、Mac、Android、iOS、Other，包含前三项即为 All。
 
-* Extensions：浏览器扩展及应用，标签为“Chrome~~扩展~~”、“~~Chrome应用~~”、“Tampermonkey”。
+* Extensions：浏览器扩展及应用，标签为 Chrome、Firefox、Tampermonkey，包含前两项即为 Extension。
 
 * Books：高评价书籍，标签为出版时间（重印为资源版本时间，丛书为第一本～最后一本的时间），格式为 yyyy-MM、yyyy-MM ~ yyyy-MM，或者 “持续更新”、“有新版 / 修订版”，强烈建议**看书之前先看豆瓣、当当网和亚马逊的书评**。
 
