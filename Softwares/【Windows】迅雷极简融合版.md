@@ -40,4 +40,4 @@
 # 资源
 
 * kkocdko's blog（404）：https://kkocdko.github.io/post/20190724002221/
-* 蓝奏云：[Thunder9_Lite_Hybrid_20200322.7z](https://www.lanzous.com/iaj3oja)
+* 蓝奏云：[Thunder9_Lite_Hybrid_20200322.7z](https://www.lanzoux.com/iaj3oja)
