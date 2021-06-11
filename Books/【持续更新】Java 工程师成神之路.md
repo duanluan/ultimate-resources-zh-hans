@@ -16,4 +16,4 @@
 |---|---|---|---|
 |Java 工程师成神之路|项目主页|[GitHub](https://github.com/hollischuang/toBeTopJavaer)||
 ||在线阅读|[GitHub Pages](https://hollischuang.github.io/toBeTopJavaer/#/)||
-||PDF 下载|[阿里云开发者社区](https://developer.aliyun.com/topic/download?id=923)||
+||基础篇下载|[阿里云开发者社区](https://developer.aliyun.com/topic/download?id=923)||
