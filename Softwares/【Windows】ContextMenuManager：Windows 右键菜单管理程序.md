@@ -1,4 +1,4 @@
-https://github.com/BluePointLilac/ContextMenuManager/raw/master/Screenshot/Screenshot.png)
+![](https://github.com/BluePointLilac/ContextMenuManager/raw/master/Screenshot/Screenshot.png)
 
 # 简介
 
