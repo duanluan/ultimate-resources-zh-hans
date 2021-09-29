@@ -1,4 +1,4 @@
-![](https://calibre-ebook.com/resources/img/grand-tour-cover.png)
+![](https://lh3.googleusercontent.com/rXiQJLi7-4RUi9MPoBBBHvNkI9GmuEnhhNlsdkDLavAhH0K5R_vINazBmxOR_kc1TAT0BGEG1iLlcBU2yLV2X9Cr7BZ0tF140P2AZZ_nuRyAmtqffTQdxlVrppjW0KDVI-D-7yKG=s0)
 
 # 简介
 
