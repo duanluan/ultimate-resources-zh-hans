@@ -2,7 +2,7 @@
 
 # 简介
 
-　　Calibre 是一个功能强大、简单易用的一站式电子书管理器。它几乎可以满足你对电子书的所有需求，而且它是完全免费、开源的。
+Calibre 是一个功能强大、简单易用的一站式电子书管理器。它几乎可以满足你对电子书的所有需求，而且它是完全免费、开源的。
 
 * 多种格式任意转换。
 * 综合电子书阅读/编辑器。
@@ -12,4 +12,7 @@
 
 # 资源
 
-* 官网：[calibre - E-book management](https://calibre-ebook.com/)
+|名称|资源名|地址|备注|
+|---|---|---|---|
+|calibre|官网|[calibre - E-book management](https://calibre-ebook.com/)||
+||项目主页|[GitHub](https://github.com/kovidgoyal/calibre)||
