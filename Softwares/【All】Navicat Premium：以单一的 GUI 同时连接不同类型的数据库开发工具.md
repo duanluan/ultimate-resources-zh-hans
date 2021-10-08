@@ -54,4 +54,4 @@
 |---|---|---|---|
 |Navicat Premium|产品主页|[Navicat 中国](https://www.navicat.com.cn/products/navicat-premium)||
 |navicat-keygen-tools|项目主页|[GitHub](https://github.com/HeQuanX/navicat-keygen-tools)||
-|Navicat Keygen Patch DFoX|搜索一下|[Navicat Keygen Patch DFoX 6.0](https://www.baidu.com/s?wd=Navicat+Keygen+Patch+DFoX+6.0)||
+|Navicat Keygen Patch DFoX|搜索一下|[Navicat Keygen Patch DFoX v6](https://www.baidu.com/s?wd=Navicat+Keygen+Patch+DFoX+v6)||
