@@ -50,7 +50,7 @@
 
 # 资源
 
-|名字|资源名|地址|备注|
+|名称|资源名|地址|备注|
 |---|---|---|---|
 |Navicat Premium|产品主页|[Navicat 中国](https://www.navicat.com.cn/products/navicat-premium)||
 |Navicat Keygen Patch DFoX|搜索一下|[Navicat Keygen Patch DFoX v6](https://www.baidu.com/s?wd=Navicat+Keygen+Patch+DFoX+v6)|适用于 Navicat 12~15，16 下载时都会带注册机|
