@@ -1,3 +1,5 @@
+![](https://socialify.git.ci/duanluan/ultimate-resources-zh-hans/image?description=1&forks=1&issues=1&language=1&name=1&stargazers=1&theme=Light)
+
 # 请先阅读以下内容
 
 [![](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg?style=flat-square)](#)
