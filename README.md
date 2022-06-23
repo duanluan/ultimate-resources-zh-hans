@@ -9,6 +9,8 @@
 
 电子书、软件、Chrome 扩展、网站等推荐。
 
+加入 [Discord](https://discord.gg/ATwm3AhuUH)，持续分享计算机类电子书！
+
 ## 目录
 
 * Softwares：软件，标签为 Windows、Linux、Mac、Android、iOS、Other，包含前三项即为 All。
