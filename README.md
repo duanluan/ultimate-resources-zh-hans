@@ -9,7 +9,7 @@
 
 电子书、软件、Chrome 扩展、网站等推荐。
 
-加入 [Discord](https://discord.gg/ATwm3AhuUH)，持续分享计算机类电子书！
+**本项目只推荐项目，但没有文件，如果需要直接下载推荐的文件，那就加入 [Discord](https://discord.gg/ATwm3AhuUH) 吧！持续分享计算机类电子书！**
 
 ## 目录
 
