@@ -11,8 +11,7 @@
 
 **本项目只推荐条目，但没有文件，如果需要直接下载推荐的文件，提供以下方式：**
 * [资源分享 - Discord](https://discord.gg/ATwm3AhuUH)
-* [资源分享 - QQ 频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5rg0c&appChannel=share&contentID=UrUz&businessType=2&from=246610&biz=ka&shareSource=5
-)
+* [资源分享 - QQ 频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5CRvQ&appChannel=share&contentID=UYsJ&businessType=2&from=181174&shareSource=5&biz=ka)
 * [资源指南（电子书、小说、电影、漫画） - QQ 频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5CRvQ&appChannel=share&contentID=UVxb&businessType=2&from=246610&biz=ka&shareSource=5)
 
 ## 目录
