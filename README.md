@@ -9,7 +9,11 @@
 
 电子书、软件、Chrome 扩展、网站等推荐。
 
-**本项目只推荐项目，但没有文件，如果需要直接下载推荐的文件，那就加入 [Discord](https://discord.gg/ATwm3AhuUH) 吧！持续分享计算机类电子书！**
+**本项目只推荐条目，但没有文件，如果需要直接下载推荐的文件，提供以下方式：**
+* [资源分享 - Discord](https://discord.gg/ATwm3AhuUH)
+* [资源分享 - QQ 频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5rg0c&appChannel=share&contentID=UrUz&businessType=2&from=246610&biz=ka&shareSource=5
+)
+* [资源指南（电子书、小说、电影、漫画） - QQ 频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5CRvQ&appChannel=share&contentID=UVxb&businessType=2&from=246610&biz=ka&shareSource=5)
 
 ## 目录
 
@@ -22,8 +26,6 @@
 * Websites：网站，标签为 Tool 等。
 
 ## 注意
-
-* 不再上传电子书（除开源版），之前上传的也全部删除了，请查看[电子资源大全](Books/!电子资源大全.md)。
 
 * 电子书资源中，大部分都经过批量锐化（正在学习更高级的技术）、书签（PDF）/目录（非 PDF，只进行增加或调整级别）优化[、OCR]、错误调整，改动过大的会追加“优化”，如果有需要帮忙优化的，可以提 [issue](../../issues/3)。
 
