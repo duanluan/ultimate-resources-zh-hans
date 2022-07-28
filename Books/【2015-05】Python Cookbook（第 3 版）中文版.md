@@ -18,6 +18,5 @@
 
 |书名|资源名|地址|备注|
 |---|---|---|---|
-|Python Cookbook（第 3 版）中文版|EPUB 原版带目录|[和彩云](http://caiyun.feixin.10086.cn/dl/0n5Crj9cOEptm)|提取码：K0P4|
 |《Python Cookbook》 3rd Edition 翻译|项目主页|[GitHub](https://github.com/yidao620c/python3-cookbook)||
 ||在线阅读|[Read the Docs](http://python3-cookbook.readthedocs.org/zh_CN/latest/)||
