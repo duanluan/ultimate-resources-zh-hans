@@ -25,4 +25,4 @@
 |书名|资源名|地址|备注|
 |---|---|---|---|
 |Haskell 趣学指南|learnyouahaskell-zh|[Github](https://github.com/MnO2/learnyouahaskell-zh)||
-|||[豆瓣](https://book.douban.com/subject/25803388/)|关联图书|
+||关联图书|[豆瓣](https://book.douban.com/subject/25803388/)||
