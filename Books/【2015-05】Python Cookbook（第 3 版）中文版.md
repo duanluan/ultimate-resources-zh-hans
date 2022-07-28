@@ -20,3 +20,4 @@
 |---|---|---|---|
 |《Python Cookbook》 3rd Edition 翻译|项目主页|[GitHub](https://github.com/yidao620c/python3-cookbook)||
 ||在线阅读|[Read the Docs](http://python3-cookbook.readthedocs.org/zh_CN/latest/)||
+|Python Cookbook（第 3 版）中文版|关联图书|[豆瓣](https://book.douban.com/subject/26381341/)||
